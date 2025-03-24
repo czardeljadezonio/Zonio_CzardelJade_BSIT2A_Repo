@@ -1,4 +1,4 @@
-// var dogName = "mingming";
+//cl var dogName = "mingming";
 // var dogWeight = 18;
 // if (dogWeight > 20) {
 //     console.log(dogName + " says, WOOF WOOF")
